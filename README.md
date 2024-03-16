@@ -1,12 +1,16 @@
-## Advent of Code in Rust 🦀
+# Advent of Code in Rust 🦀
 
 This repository is my attempt to complete the Advent of Code problems in Rust. I am doing this in order to get better at writing Rust.
+
+## Things to keep in mind:
 
 - Code is probably not the most efficient solution
 - Input text for the solutions has been removed as this is a requirement of AoC
 - This is just for fun
 
 ---
+
+## Runnning the code
 
 If you would like to run these solutions you will need the Rust language installed:
 
